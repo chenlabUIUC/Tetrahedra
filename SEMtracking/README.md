@@ -12,4 +12,4 @@ For more information about the project, algorithms, and related publications ple
 
 # Notes
 1. Don't forget to change the corresponding parameters to have the image properly tracked.
-
+2. To display the tracking results, manually selection of the gaussian mixture clusters is needed.
