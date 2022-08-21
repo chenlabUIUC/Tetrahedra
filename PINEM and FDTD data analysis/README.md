@@ -12,4 +12,5 @@ For more information about the project, algorithms, and related publications ple
 
 ## Notes
 ---------------------------------
+For each of the analysis, one set of example data is provided.
 For more details and aspects of analysis, please refere to [Chen Group website](https://chenlab.matse.illinois.edu/).
